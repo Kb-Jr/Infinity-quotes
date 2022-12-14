@@ -26,7 +26,7 @@ A single web page to generate and display a Random quotes fetched from a quotes 
 
 ### Links
 
-<!-- - Live Site URL: [Click here](https://kb-jr.github.io/Random-quotes-generator/) -->
+- Live Site URL: [Click here](https://kb-jr.github.io/Infinity-quotes/)
 
 ## My process
 
