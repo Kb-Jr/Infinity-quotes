@@ -56,6 +56,8 @@ A single web page to generate and display a Random quotes fetched from a quotes 
 - You cant add event listeners such as load or unload to elements or tags such as divs. Those only work on images, links, scripts, iframes etc such are usually external resources hence the need to be 'loaded'. To apply a function simply call the function after writing all the relevant code. No need to add event listener to the div or any element that is not supported by that particular event.
 
 
+- Working with the window object
+
 ### Built with
 
 - HTML5 
